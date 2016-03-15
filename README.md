@@ -1,0 +1,2 @@
+# AnimatedExpandableListViewDemo
+AnimatedExpandableListView是ExpandableListView的扩展，当分组打开或关闭时，添加动画效果
